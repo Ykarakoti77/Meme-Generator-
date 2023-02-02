@@ -1,5 +1,6 @@
 {
   "name": "pro",
+  "homepage": "https://github.com/Ykarakoti77/Meme-Generator-",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,5 +41,4 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "homepage": "http://Ykarakoti77.github.io/Meme-Generator-"
 }
